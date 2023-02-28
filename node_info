@@ -1,7 +1,7 @@
-slv_node_runs_runs=no
+slv_node_runs_runs=yes
 slv_node_work_naid=node8420
-slv_node_work_name=fv-az246-197
-slv_node_ipv4_eth0=10.1.0.29
-slv_node_ipv4_ztc2=10.88.90.47
-slv_node_star_time=1677613677
+slv_node_work_name=fv-az796-421
+slv_node_ipv4_eth0=10.1.0.228
+slv_node_ipv4_ztc2=10.88.90.20
+slv_node_star_time=1677615026
 slv_node_work_disk=/home/runner/work/mp8420/mp8420
